@@ -90,7 +90,6 @@ Impact:
 
 Severity: High
 
-📸 Screenshot attached in repository (SQL Injection output)
 <img width="642" height="591" alt="image" src="https://github.com/user-attachments/assets/8bb32dec-53bb-4468-acd8-06520558de68" />
 <img width="642" height="591" alt="image" src="https://github.com/user-attachments/assets/c70da08e-6745-4f66-ac24-8ccb8bf85ca9" />
 <img width="1117" height="735" alt="image" src="https://github.com/user-attachments/assets/6d582c5a-f56b-4ad6-831e-eec6177f1640" />
@@ -157,7 +156,7 @@ Severity: Medium
 This task enhanced practical knowledge of web application security testing and provided hands-on experience with real-world vulnerabilities in a controlled environment.
 
 
-📘 README.md (FOR GITHUB)
+
 
 markdown
   – Web Application Vulnerability Testing
